@@ -9,7 +9,7 @@
 
 
 
-우연히 알게된 [coding-test-study](https://github.com/boostcamp-ai-tech-4/coding-test-study)를 참고하여 페이지를 구성하셨습니다!! 또한 문제는 [tony9402/backjoon](tony9402/backjoon)에서 제공하는 추천 문제들을 풀겠습니다. 감사합니다.
+우연히 알게된 [coding-test-study](https://github.com/boostcamp-ai-tech-4/coding-test-study)를 참고하여 페이지를 구성하셨습니다!! 또한 문제는 [tony9402/backjoon](https://github.com/tony9402/baekjoon)에서 제공하는 추천 문제들을 풀겠습니다. 감사합니다.
 
 
 
