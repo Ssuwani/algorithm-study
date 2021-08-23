@@ -15,5 +15,4 @@ for _ in range(n):
     elif cs[0] == 'empty':
         print(0) if stack else print(1)
     elif cs[0] == 'top':
-        print("topiii")
         print(stack[-1]) if stack else print(-1)
