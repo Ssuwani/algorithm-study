@@ -19,21 +19,21 @@
 
 ### **자료구조**
 
-| 날짜 | 문제 이름     | 난이도                                                       | 체크 | 한줄평 | 풀이링크 |
-| ---- | ------------- | ------------------------------------------------------------ | ---- | ------ | -------- |
-| 8/23 | 요세푸스 문제 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |      |        |          |
-| 8/23 | 스택          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |        |          |
-| 8/24 | 괄호          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |        |          |
-| 8/24 | 큐 2          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |        |          |
-| 8/25 | 카드 2        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |        |          |
-| 8/25 | 덱            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |        |          |
-| 8/26 | 스택 수열     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |        |          |
-| 8/26 | 후위 표기식2  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |        |          |
-| 8/27 | 쇠막대기      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |        |          |
-| 8/27 | 프린터 큐     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |        |          |
-| 8/28 | 풍선 터뜨리기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |        |          |
-| 8/28 | 괄호의 값     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |        |          |
-|      |               |                                                              | ✅    |        |          |
+| 날짜 | 문제 이름                                             | 난이도                                                       | 체크 | 한줄평                                                       | 풀이링크                                   |
+| ---- | ----------------------------------------------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------ |
+| 8/23 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | ✅    | 간단한 문제지만 필요한 Index를 찾아가는 과정이 헤깔렸다.     | [링크](DataStructure/1158_요세푸스문제.py) |
+| 8/23 | [스택](https://www.acmicpc.net/problem/10828)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 파이써닉하게 코드를 작성하고자 노력했지만 뭔가 만족스럽지 않다. | [링크](DataStructure/10828_스택.py)        |
+| 8/24 | 괄호                                                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
+| 8/24 | 큐 2                                                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
+| 8/25 | 카드 2                                                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
+| 8/25 | 덱                                                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
+| 8/26 | 스택 수열                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
+| 8/26 | 후위 표기식2                                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
+| 8/27 | 쇠막대기                                              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
+| 8/27 | 프린터 큐                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
+| 8/28 | 풍선 터뜨리기                                         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
+| 8/28 | 괄호의 값                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |                                                              |                                            |
+|      |                                                       |                                                              |      |                                                              |                                            |
 
 ### ETC
 
