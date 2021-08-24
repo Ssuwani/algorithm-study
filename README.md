@@ -25,23 +25,12 @@
 | 8/23 | [스택](https://www.acmicpc.net/problem/10828)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 파이써닉하게 코드를 작성하고자 노력했지만 뭔가 만족스럽지 않다. | [링크](DataStructure/10828_스택.py)        |
 | 8/24 | [괄호](https://www.acmicpc.net/problem/9012)          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | replace를 잘 활용하니 엄청 간단하게 코드를 작성할 수 있었다. | [링크](DataStructure/9012_괄호.py)         |
 | 8/24 | [큐 2](https://www.acmicpc.net/problem/18258)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 앞의 '스택' 문제와 비슷하다.                                 | [링크](DataStructure/18258_큐2.py)         |
-| 8/25 | 카드 2                                                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
-| 8/25 | 덱                                                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |                                                              |                                            |
+| 8/25 | [카드 2](https://www.acmicpc.net/problem/2164)        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | deque를 통해 추가, 삭제를 효율적으로 처리할 수 있다!! (시간이 중요한데 앞뒤가 헷갈리면 deque를 사용하자) | [링크](DataStructure/2164_카드2.py)        |
+| 8/25 | [덱](https://www.acmicpc.net/problem/10866)           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 앞의 '스택', '큐2' 문제와 비슷하다. 다만 여기선 Deque로 구현 | [링크](DataStructure/10866_덱.py)          |
 | 8/26 | 스택 수열                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
 | 8/26 | 후위 표기식2                                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
 | 8/27 | 쇠막대기                                              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
 | 8/27 | 프린터 큐                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
 | 8/28 | 풍선 터뜨리기                                         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |      |                                                              |                                            |
 | 8/28 | 괄호의 값                                             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |                                                              |                                            |
-|      |                                                       |                                                              |      |                                                              |                                            |
-
-### ETC
-
-| 날짜 | 문제 이름 | 난이도 | 체크 | 한줄평 |
-| ---- | --------- | ------ | ---- | ------ |
-|      |           |        |      |        |
-|      |           |        |      |        |
-|      |           |        |      |        |
-
-
 
