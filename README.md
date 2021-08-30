@@ -33,4 +33,6 @@
 | 8/27 | [프린터 큐](https://www.acmicpc.net/problem/1966)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | ✅    | 한번의 처리보다 반복되는 일로 과정을 눈에보기에 하는것도 중요하다는 생각을 했다. | [링크](DataStructure/1966_프린터큐.py)     |
 | 8/28 | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | ✅    | 배열을 돌려야 할때 queue를 사용하면 빠르고 쉽게 할 수 있다고 한다. queue에서 rotate는 편리했다. | [링크](DataStructure/2346_풍선터뜨리기.py) |
 | 8/28 | [괄호의 값](https://www.acmicpc.net/problem/2504)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | ✅    | 문자열을 처리하는 문제인데, 정규표현식을 이용하면 훨씬 쉬울 것 같다는 생각을 했지만 그렇게 하지 못했다. 정규표현식을 미리미리 공부해두자. | [링크](DataStructure/2504_괄호의값.py)     |
+| 8/30 | [괄호 제거](https://www.acmicpc.net/problem/2800)     | ![img](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)    | ✅    | 괄호들의 쌍을 일단 찾은 다음 다시 조합하는 방식으로 가능한 정답을 찾아냈다. 이러한 아이디어가 없었다면 정말 어렵게 풀었을 것 같다. | [링크](DataStructure/2800_괄호제거.py)     |
+| 8/30 | [탑](https://www.acmicpc.net/problem/2493)            | ![img](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)    | ✅    | 오른쪽에서 왼쪽으로 stack에 추가하며 진행한다. 자신보다 큰 탑이 나오면 스택에 있는 탑을 수를 센다. | [링크](DataStructure/2493_탑.py)           |
 
