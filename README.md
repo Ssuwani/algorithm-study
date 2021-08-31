@@ -36,3 +36,11 @@
 | 8/30 | [괄호 제거](https://www.acmicpc.net/problem/2800)     | ![img](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)    | ✅    | 괄호들의 쌍을 일단 찾은 다음 다시 조합하는 방식으로 가능한 정답을 찾아냈다. 이러한 아이디어가 없었다면 정말 어렵게 풀었을 것 같다. | [링크](DataStructure/2800_괄호제거.py)     |
 | 8/30 | [탑](https://www.acmicpc.net/problem/2493)            | ![img](https://d2gd6pc034wcta.cloudfront.net/tier/11.svg)    | ✅    | 오른쪽에서 왼쪽으로 stack에 추가하며 진행한다. 자신보다 큰 탑이 나오면 스택에 있는 탑을 수를 센다. | [링크](DataStructure/2493_탑.py)           |
 
+### **자료구조2**
+
+| 날짜 | 문제 이름                                                    | 난이도                                                       | 체크 | 한줄평                                                       | 풀이링크                                                |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 8/31 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 딕셔너리에 쌍을 넣고 잘 조회할 수 있는지 확인하는 간단한 문제였다. | [링크](DataStructure2/1620_나는야포켓몬마스터이다솜.py) |
+| 8/31 | [문자열 집합](https://www.acmicpc.net/problem/14425)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | ✅    | 문자열 집합안에 문자열에 있는 확인하는 정말 간단한 문제.. 난이도가 의심된다. | [링크](DataStructure2/14425_문자열집합.py)              |
+|      |                                                              |                                                              |      |                                                              |                                                         |
+
