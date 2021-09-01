@@ -38,10 +38,12 @@
 
 ### **자료구조2**
 
-| 날짜 | 문제 이름                                                    | 난이도                                                       | 체크 | 한줄평                                                       | 풀이링크                                                |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| 8/31 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 딕셔너리에 쌍을 넣고 잘 조회할 수 있는지 확인하는 간단한 문제였다. | [링크](DataStructure2/1620_나는야포켓몬마스터이다솜.py) |
-| 8/31 | [문자열 집합](https://www.acmicpc.net/problem/14425)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | ✅    | 문자열 집합안에 문자열에 있는 확인하는 정말 간단한 문제.. 난이도가 의심된다. | [링크](DataStructure2/14425_문자열집합.py)              |
-| 9/1  | [최대 힙](https://www.acmicpc.net/problem/11279)             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | ✅    | 힙이라는 개념에 대해 배울 수 있었다.  [여기](https://www.daleseo.com/python-heapq/) 정말 잘 정리가 되어있다. | [링크](DataStructure2/11279_최대힙.py)                  |
-| 9/1  | [절댓값 힙](https://www.acmicpc.net/problem/11286)           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | ✅    | 위의 문제를 풀고나니 너무 쉬운문제였다!! ㅎㅎ                | [링크](DataStructure2/11286_절대값힙.py)                |
+| 날짜 | 문제 이름                                                    | 난이도                                                       | 체크 | 한줄평                                                       | 풀이링크                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 8/31 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | ✅    | 딕셔너리에 쌍을 넣고 잘 조회할 수 있는지 확인하는 간단한 문제였다. | [링크](DataStructure2/1620_나는야포켓몬마스터이다솜.py)      |
+| 8/31 | [문자열 집합](https://www.acmicpc.net/problem/14425)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | ✅    | 문자열 집합안에 문자열에 있는 확인하는 정말 간단한 문제.. 난이도가 의심된다. | [링크](DataStructure2/14425_문자열집합.py)                   |
+| 9/1  | [최대 힙](https://www.acmicpc.net/problem/11279)             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | ✅    | 힙이라는 개념에 대해 배울 수 있었다.  [여기](https://www.daleseo.com/python-heapq/) 정말 잘 정리가 되어있다. | [링크](DataStructure2/11279_최대힙.py)                       |
+| 9/1  | [절댓값 힙](https://www.acmicpc.net/problem/11286)           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | ✅    | 위의 문제를 풀고나니 너무 쉬운문제였다!! ㅎㅎ                | [링크](DataStructure2/11286_절대값힙.py)                     |
+| 9/2  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✅    | 최소힙, 최대힙만 정의하고 합치면 될듯 보였으나 동기화를 위해 식별자가 필요했다. 너무 어려운문제 ㅠㅠ | [블로그 링크](https://neomindstd.github.io/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/boj7662/) |
+| 9/2  | [N번째 큰 수](https://www.acmicpc.net/problem/2075)          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✅    | 메모리 문제로 큐의 길이는 N으로 유지하는것이 중요했다. 힙의 특성을 잘 이용하자. | [링크](DataStructure2/2075_N번째큰수.py)                     |
 
