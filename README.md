@@ -47,3 +47,12 @@
 | 9/2  | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✅    | 최소힙, 최대힙만 정의하고 합치면 될듯 보였으나 동기화를 위해 식별자가 필요했다. 너무 어려운문제 ㅠㅠ | [블로그 링크](https://neomindstd.github.io/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/boj7662/) |
 | 9/2  | [N번째 큰 수](https://www.acmicpc.net/problem/2075)          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | ✅    | 메모리 문제로 큐의 길이는 N으로 유지하는것이 중요했다. 힙의 특성을 잘 이용하자. | [링크](DataStructure2/2075_N번째큰수.py)                     |
 
+
+
+**트리**
+
+| 날짜 | 문제 이름                                                 | 난이도                                                       | 체크 | 한줄평                                                       | 풀이링크                             |
+| ---- | --------------------------------------------------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------ |
+| 9/3  | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | ✅    | BFS를 통해 간단히 이진 트리를 순회할 수 있었다.              | [링크](Tree/11725_트리의부모찾기.py) |
+| 9/3  | [트리 순회](https://www.acmicpc.net/problem/1991)         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | ✅    | 전위 순회, 중위 순회, 후위 순회를 구현해야 하는데 서로간의 연관성을 위해 Class를 정의하고 왼쪽 오른쪽 노드를 이전에 정의한 클래스로 연결하는 접근이 재밌었다. | [링크](Tree/1991_트리순회.py)        |
+
